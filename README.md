@@ -5,7 +5,7 @@ It shows my skills, projects, experience, and education in a clean and responsiv
 
 ---
 
-## Technologies Used
+## 🚀 Technologies Used
 
 - React.js
 - Tailwind CSS
@@ -15,7 +15,7 @@ It shows my skills, projects, experience, and education in a clean and responsiv
 
 ---
 
-## Features
+## ✨ Features
 
 - Responsive design
 - Modern UI
@@ -27,4 +27,15 @@ It shows my skills, projects, experience, and education in a clean and responsiv
 
 ---
 
+## 📦 Installation & Setup
 
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/portfolio-website.git
+cd portfolio-website
+npm install
+npm start
+
+
+## 👨‍💻 Author
+Dikesh Chouhan
